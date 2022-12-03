@@ -2,4 +2,5 @@
 
 Tags checkout:
   clone the source code first
+  listing all the tags: git tag --list 'v5.10'
   git checkout tags/v5.10
