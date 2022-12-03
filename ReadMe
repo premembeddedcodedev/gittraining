@@ -1,4 +1,10 @@
+reset to old commit:
+  git reset --hard <sha1 of commit>
 
+
+untracked files deletion:
+  git clean -f --> this is for files
+  git clean -f -d board/folder - this is for directories
 
 Tags checkout:
   clone the source code first
